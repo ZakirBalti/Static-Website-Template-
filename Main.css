@@ -1,0 +1,49 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+header{
+	background-color:black;
+}
+
+header p{
+	float:right;
+	margin-top:15px;
+	padding:10px;
+}
+header p:Hover{
+	
+	color:white;
+}
+header img{
+	width:200px;
+	height:100px;
+}
+/* Set height of body and the document to 100% */
+
+/* Style tab links */
+.tablink {
+  
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 20%;
+}
+
+
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+footer{
+	background-color:black;
+	color:white;
+}
+
